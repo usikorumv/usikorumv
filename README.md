@@ -7,5 +7,5 @@
 - 💬 Ask me about Flutter, Python
 - 📫 How to reach me: uomuraliev09@gmail.com
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I have macbook but no iphone
+- ⚡ Fun fact: I have macbook but not iphone
  <img src="https://github-readme-stats.vercel.app/api?username=usikorumv&theme=radica"/>
